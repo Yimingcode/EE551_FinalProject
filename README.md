@@ -1,4 +1,4 @@
-Porn Image Detector
+Face recognition
 ===
 ## Introduction
 
@@ -8,7 +8,7 @@ ID: 10438422<br>
 
 ## Goals
 
-This project is designed to find out the skin area in the picture according to the skin color, and then make some rules to determine whether it is a pornographic picture. 
+This project is designed to find out the faces of people in the images. 
 
 ## Key steps
 
