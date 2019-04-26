@@ -22,5 +22,9 @@ This project is designed to design a classic game 2048 with a simple gui.
 2. Design the tkinter elements
 3. Design the game logic(game rules)
 
+## How to play
+
+Run the Main.py to start to play the game.
+
 
 
